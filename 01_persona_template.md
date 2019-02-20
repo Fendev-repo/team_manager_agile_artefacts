@@ -118,7 +118,7 @@ Sarah is Corporate Lawyer, and a keen Americal Football enthusiast;  When its co
 #### Age
 25
 #### Gender
-Femail
+Female
 #### Marital Status
 Engaged
 #### Children
