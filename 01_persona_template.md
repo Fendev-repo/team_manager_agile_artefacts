@@ -1,5 +1,5 @@
 # Persona 1 
-## name: David Williams
+## Name: David Williams
 ## Role: Coach of Team
 
 ### Persona personal insight statement
@@ -11,7 +11,6 @@ David works in finance, and also manages an amateur Americal Football Team on th
 
 ### Personal profile
 #### Headshot
-> find an example and save to project_images_temp
 
 ![Coach David](example_profile_image.png)
 
