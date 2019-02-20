@@ -28,7 +28,6 @@ Bachelors, Finance and Banking
 Financial Advisor
 
 ### Goals
-  i.e.
   - Keep team motivated to win games
   - Maintain team good team moral and player enthusiasm 
   - Win grand final
@@ -37,7 +36,6 @@ Financial Advisor
   - keep accurate record of player and team performance
 
 ### Tasks
-  i.e.
   - Updates players on who's playing each game - and their respective positions
   - Notify players, and non-players of when, where games are being played
   - Notify players of outstanding individual tasks
