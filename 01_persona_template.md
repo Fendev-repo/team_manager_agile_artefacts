@@ -48,9 +48,6 @@ Financial Advisor
 David's great with finance, but not tech savy as such.  He uses a computer at work, and can use the standard applications like work, excel etc. 
 
 ### Environment
-  i.e.
-  Blake likes to use his Iphone during his commute and watch TV in his apartment/  He has a latest generation "smart TV" and is nearly always on the computer at either home or work. 
-
 David likes to use a table where possible, a phone when needed - and can also access a laptop at work.   
 
 -----------------
