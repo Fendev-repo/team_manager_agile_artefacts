@@ -1,4 +1,4 @@
-# Persona 1 
+# Persona 1
 ## Name: David Williams
 ## Role: Coach of Team
 
@@ -12,7 +12,7 @@ David works in finance, and also manages an amateur Americal Football Team on th
 ### Personal profile
 #### Headshot
 
-![Coach David](example_profile_image.png)
+![Coach David](../project_images_temp/david.jpg)
 
 #### Age
 42
@@ -29,7 +29,7 @@ Financial Advisor
 
 ### Goals
   - Keep team motivated to win games
-  - Maintain team good team moral and player enthusiasm 
+  - Maintain team good team moral and player enthusiasm
   - Win grand final
   - Get players on the field on time
   - Get the best team on the field each game
@@ -43,7 +43,7 @@ Financial Advisor
   - Motivate players to win through presentation of metrics
 
 ### Technical Skill
-David's great with finance, but not tech savy as such.  He uses a computer at work, and can use the standard applications like work, excel etc. 
+David's great with finance, but not tech savy as such.  He uses a computer at work, and can use the standard applications like work, excel etc.
 
 ### Environment
 David likes to use a table where possible, a phone when needed - and can also access a laptop at work.   
@@ -52,7 +52,7 @@ David likes to use a table where possible, a phone when needed - and can also ac
 -----------------
 
 
-# Persona 2 
+# Persona 2
 ## name: Bill Turner
 ## Role: Team Player
 
@@ -64,7 +64,7 @@ Bill Carpenter by trade, but his real passion is playing American Football with 
 
 ### Personal profile
 #### Headshot
-![Image alt text](example_profile_image.png)
+![Image alt text](../project_images_temp/bill.jpg)
 
 #### Age
 27
@@ -82,7 +82,7 @@ Carpenter
 ### Goals
   - Keep up to date with his team and be an active participant
   - Help the team win games
-  - Track his personal performance 
+  - Track his personal performance
 
 ### Tasks
   - Turn up to training
@@ -94,14 +94,14 @@ Carpenter
 Bill is fairly tech savy, he likes to play his games console - and is fine using his phone and laptop.  He is by no means a superuser though.
 
 ### Environment
-Bill has his phone at work, and laptop at home. 
+Bill has his phone at work, and laptop at home.
 
 
 -----------------
 -----------------
 
 
-# Persona 2 
+# Persona 2
 ## name: Sarah Jones
 ## Role: Team Supporter
 
@@ -113,7 +113,7 @@ Sarah is Corporate Lawyer, and a keen Americal Football enthusiast;  When its co
 
 ### Personal profile
 #### Headshot
-![Image alt text](example_profile_image.png)
+![Image alt text](../project_images_temp/sarah.jpg)
 
 #### Age
 25
@@ -142,4 +142,3 @@ Sarah is quite good on her PC, she spends most of her day on it.  She has take a
 
 ### Environment
 Sarah has access to her Iphone, Laptop and desktop at work.
-
