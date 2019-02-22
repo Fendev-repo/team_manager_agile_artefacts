@@ -101,7 +101,7 @@ Bill has his phone at work, and laptop at home.
 -----------------
 
 
-# Persona 2
+# Persona 3
 ## name: Sarah Jones
 ## Role: Team Supporter
 
